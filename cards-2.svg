@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 794 1123" font-family="Arial, sans-serif">
+<rect width="794" height="1123" fill="#f5f5f5"/>
+<text x="397" y="14" text-anchor="middle" font-size="9" fill="#aaa">Страница 2 из 3 · Карточки событий «Торговые маршруты» · Вырежьте по краям карточек</text>
+
+<!-- === CARD 10: Конкурент-торговец === pos 25,22 -->
+<g transform="translate(25,22)">
+  <rect width="242" height="350" rx="12" fill="#fef9e7" stroke="#9a6000" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#e67e22"/>
+  <rect y="12" width="242" height="46" fill="#e67e22"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#10</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">📰 РЫНОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🤝</text>
+  <text x="121" y="148" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">Конкурент-</text>
+  <text x="121" y="166" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">торговец</text>
+  <line x1="20" y1="177" x2="222" y2="177" stroke="#9a6000" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="198">Игрок справа получает</tspan>
+    <tspan x="121" dy="18">1 товар бесплатно</tspan>
+    <tspan x="121" dy="18">на выбор</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#e67e22"/>
+  <rect y="318" width="242" height="18" fill="#e67e22"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 11: Банковский кризис === pos 275,22 -->
+<g transform="translate(275,22)">
+  <rect width="242" height="350" rx="12" fill="#fef9e7" stroke="#9a6000" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#e67e22"/>
+  <rect y="12" width="242" height="46" fill="#e67e22"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#11</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">📰 РЫНОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🏦</text>
+  <text x="121" y="148" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">Банковский</text>
+  <text x="121" y="166" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">кризис</text>
+  <line x1="20" y1="177" x2="222" y2="177" stroke="#9a6000" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="198">Все игроки платят</tspan>
+    <tspan x="121" dy="18">1$ налог в банк</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#e67e22"/>
+  <rect y="318" width="242" height="18" fill="#e67e22"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 12: Удачная сделка === pos 525,22 -->
+<g transform="translate(525,22)">
+  <rect width="242" height="350" rx="12" fill="#d5f5e3" stroke="#1d6a3a" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#27ae60"/>
+  <rect y="12" width="242" height="46" fill="#27ae60"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#12</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🎲 ИГРОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">💰</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6a3a">Удачная сделка</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1d6a3a" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Продай 1 товар любому</tspan>
+    <tspan x="121" dy="18">игроку по договорной</tspan>
+    <tspan x="121" dy="18">цене прямо сейчас</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#27ae60"/>
+  <rect y="318" width="242" height="18" fill="#27ae60"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 13: Находка === pos 25,380 -->
+<g transform="translate(25,380)">
+  <rect width="242" height="350" rx="12" fill="#d5f5e3" stroke="#1d6a3a" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#27ae60"/>
+  <rect y="12" width="242" height="46" fill="#27ae60"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#13</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🎲 ИГРОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🎁</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6a3a">Находка</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1d6a3a" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Возьми 1 товар на выбор</tspan>
+    <tspan x="121" dy="18">из склада Столицы</tspan>
+    <tspan x="121" dy="18">бесплатно</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#27ae60"/>
+  <rect y="318" width="242" height="18" fill="#27ae60"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 14: Кража! === pos 275,380 -->
+<g transform="translate(275,380)">
+  <rect width="242" height="350" rx="12" fill="#d5f5e3" stroke="#1d6a3a" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#27ae60"/>
+  <rect y="12" width="242" height="46" fill="#27ae60"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#14</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🎲 ИГРОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">😈</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6a3a">Кража!</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1d6a3a" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Игрок слева теряет</tspan>
+    <tspan x="121" dy="18">1 товар на выбор</tspan>
+    <tspan x="121" dy="18">(возвращается в склад)</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#27ae60"/>
+  <rect y="318" width="242" height="18" fill="#27ae60"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 15: Реклама === pos 525,380 -->
+<g transform="translate(525,380)">
+  <rect width="242" height="350" rx="12" fill="#d5f5e3" stroke="#1d6a3a" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#27ae60"/>
+  <rect y="12" width="242" height="46" fill="#27ae60"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#15</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🎲 ИГРОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">📣</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6a3a">Реклама</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1d6a3a" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Этот и следующий ход</tspan>
+    <tspan x="121" dy="18">твои товары стоят</tspan>
+    <tspan x="121" dy="18">+2$ при продаже</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#27ae60"/>
+  <rect y="318" width="242" height="18" fill="#27ae60"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 16: Срочный заказ === pos 25,738 -->
+<g transform="translate(25,738)">
+  <rect width="242" height="350" rx="12" fill="#d5f5e3" stroke="#1d6a3a" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#27ae60"/>
+  <rect y="12" width="242" height="46" fill="#27ae60"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#16</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🎲 ИГРОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🚀</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d6a3a">Срочный заказ</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1d6a3a" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Переместись в любой</tspan>
+    <tspan x="121" dy="18">город и соверши</tspan>
+    <tspan x="121" dy="18">1 продажу прямо сейчас</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#27ae60"/>
+  <rect y="318" width="242" height="18" fill="#27ae60"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 17: Апгрейд со скидкой === pos 275,738 -->
+<g transform="translate(275,738)">
+  <rect width="242" height="350" rx="12" fill="#e8daef" stroke="#6c3483" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#8e44ad"/>
+  <rect y="12" width="242" height="46" fill="#8e44ad"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#17</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">⚙️ ОСОБОЕ</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">💸</text>
+  <text x="121" y="148" text-anchor="middle" font-size="14" font-weight="bold" fill="#6c3483">Апгрейд</text>
+  <text x="121" y="166" text-anchor="middle" font-size="14" font-weight="bold" fill="#6c3483">со скидкой</text>
+  <line x1="20" y1="177" x2="222" y2="177" stroke="#6c3483" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="198">Тележка или быстрый</tspan>
+    <tspan x="121" dy="18">маршрут стоят сейчас</tspan>
+    <tspan x="121" dy="18">на 2$ дешевле</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#8e44ad"/>
+  <rect y="318" width="242" height="18" fill="#8e44ad"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 18: Свободная торговля === pos 525,738 -->
+<g transform="translate(525,738)">
+  <rect width="242" height="350" rx="12" fill="#e8daef" stroke="#6c3483" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#8e44ad"/>
+  <rect y="12" width="242" height="46" fill="#8e44ad"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#18</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">⚙️ ОСОБОЕ</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🔓</text>
+  <text x="121" y="148" text-anchor="middle" font-size="14" font-weight="bold" fill="#6c3483">Свободная</text>
+  <text x="121" y="166" text-anchor="middle" font-size="14" font-weight="bold" fill="#6c3483">торговля</text>
+  <line x1="20" y1="177" x2="222" y2="177" stroke="#6c3483" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="198">В этот раунд любой</tspan>
+    <tspan x="121" dy="18">товар в любом городе</tspan>
+    <tspan x="121" dy="18">продаётся по 4$</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#8e44ad"/>
+  <rect y="318" width="242" height="18" fill="#8e44ad"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+</svg>

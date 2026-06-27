@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 794 1123" font-family="Arial, sans-serif">
+<rect width="794" height="1123" fill="#f5f5f5"/>
+<text x="397" y="14" text-anchor="middle" font-size="9" fill="#aaa">Страница 1 из 3 · Карточки событий «Торговые маршруты» · Вырежьте по краям карточек</text>
+
+<!-- === CARD 1: Шторм === pos 25,22 -->
+<g transform="translate(25,22)">
+  <rect width="242" height="350" rx="12" fill="#d6eaf8" stroke="#1a5276" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#2980b9"/>
+  <rect y="12" width="242" height="46" fill="#2980b9"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#1</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🌊 ПРИРОДА</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">⛈️</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a5276">Шторм</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1a5276" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Рыбацкая деревня не</tspan>
+    <tspan x="121" dy="18">торгует рыбой и суши</tspan>
+    <tspan x="121" dy="18">в этот раунд</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#2980b9"/>
+  <rect y="318" width="242" height="18" fill="#2980b9"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 2: Богатый урожай === pos 275,22 -->
+<g transform="translate(275,22)">
+  <rect width="242" height="350" rx="12" fill="#d6eaf8" stroke="#1a5276" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#2980b9"/>
+  <rect y="12" width="242" height="46" fill="#2980b9"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#2</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🌊 ПРИРОДА</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🌾</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a5276">Богатый урожай</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1a5276" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Фермы раздают 1 товар</tspan>
+    <tspan x="121" dy="18">каждому игроку бесплатно:</tspan>
+    <tspan x="121" dy="18">индейка или сыр на выбор</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#2980b9"/>
+  <rect y="318" width="242" height="18" fill="#2980b9"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 3: Жара на курорте === pos 525,22 -->
+<g transform="translate(525,22)">
+  <rect width="242" height="350" rx="12" fill="#d6eaf8" stroke="#1a5276" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#2980b9"/>
+  <rect y="12" width="242" height="46" fill="#2980b9"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#3</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🌊 ПРИРОДА</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">☀️</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a5276">Жара на курорте</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1a5276" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Мороженое в Курортном</tspan>
+    <tspan x="121" dy="18">городе стоит +3$</tspan>
+    <tspan x="121" dy="18">до конца раунда</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#2980b9"/>
+  <rect y="318" width="242" height="18" fill="#2980b9"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 4: Туман в порту === pos 25,380 -->
+<g transform="translate(25,380)">
+  <rect width="242" height="350" rx="12" fill="#d6eaf8" stroke="#1a5276" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#2980b9"/>
+  <rect y="12" width="242" height="46" fill="#2980b9"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#4</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🌊 ПРИРОДА</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🌫️</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a5276">Туман в порту</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1a5276" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Торговый порт закрыт.</tspan>
+    <tspan x="121" dy="18">Никто не может там</tspan>
+    <tspan x="121" dy="18">торговать этот раунд</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#2980b9"/>
+  <rect y="318" width="242" height="18" fill="#2980b9"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 5: Отличный улов === pos 275,380 -->
+<g transform="translate(275,380)">
+  <rect width="242" height="350" rx="12" fill="#d6eaf8" stroke="#1a5276" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#2980b9"/>
+  <rect y="12" width="242" height="46" fill="#2980b9"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#5</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">🌊 ПРИРОДА</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🐟</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a5276">Отличный улов</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#1a5276" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Рыбацкая деревня</tspan>
+    <tspan x="121" dy="18">продаёт рыбу по 1$ —</tspan>
+    <tspan x="121" dy="18">переизбыток!</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#2980b9"/>
+  <rect y="318" width="242" height="18" fill="#2980b9"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 6: Фестиваль пиццы === pos 525,380 -->
+<g transform="translate(525,380)">
+  <rect width="242" height="350" rx="12" fill="#fef9e7" stroke="#9a6000" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#e67e22"/>
+  <rect y="12" width="242" height="46" fill="#e67e22"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#6</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">📰 РЫНОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🍕</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#9a6000">Фестиваль пиццы</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#9a6000" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Пицца в Столице</tspan>
+    <tspan x="121" dy="18">продаётся по 8$</tspan>
+    <tspan x="121" dy="18">в течение двух раундов</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#e67e22"/>
+  <rect y="318" width="242" height="18" fill="#e67e22"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 7: Туристический сезон === pos 25,738 -->
+<g transform="translate(25,738)">
+  <rect width="242" height="350" rx="12" fill="#fef9e7" stroke="#9a6000" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#e67e22"/>
+  <rect y="12" width="242" height="46" fill="#e67e22"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#7</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">📰 РЫНОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🏖️</text>
+  <text x="121" y="148" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">Туристический</text>
+  <text x="121" y="166" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">сезон</text>
+  <line x1="20" y1="177" x2="222" y2="177" stroke="#9a6000" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="198">Курортный город</tspan>
+    <tspan x="121" dy="18">покупает всё на +2$</tspan>
+    <tspan x="121" dy="18">в этот раунд</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#e67e22"/>
+  <rect y="318" width="242" height="18" fill="#e67e22"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 8: Ярмарка === pos 275,738 -->
+<g transform="translate(275,738)">
+  <rect width="242" height="350" rx="12" fill="#fef9e7" stroke="#9a6000" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#e67e22"/>
+  <rect y="12" width="242" height="46" fill="#e67e22"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#8</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">📰 РЫНОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🎪</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#9a6000">Ярмарка</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#9a6000" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Каждый игрок в Лесном</tspan>
+    <tspan x="121" dy="18">городке получает 2$</tspan>
+    <tspan x="121" dy="18">от организаторов</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#e67e22"/>
+  <rect y="318" width="242" height="18" fill="#e67e22"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+<!-- === CARD 9: Дефицит сыра === pos 525,738 -->
+<g transform="translate(525,738)">
+  <rect width="242" height="350" rx="12" fill="#fef9e7" stroke="#9a6000" stroke-width="2"/>
+  <rect width="242" height="58" rx="12" fill="#e67e22"/>
+  <rect y="12" width="242" height="46" fill="#e67e22"/>
+  <text x="14" y="24" font-size="9" fill="white" opacity="0.7">#9</text>
+  <text x="121" y="24" text-anchor="middle" font-size="10.5" font-weight="bold" fill="white">📰 РЫНОК</text>
+  <text x="121" y="114" text-anchor="middle" font-size="52">🧀</text>
+  <text x="121" y="154" text-anchor="middle" font-size="15" font-weight="bold" fill="#9a6000">Дефицит сыра</text>
+  <line x1="20" y1="165" x2="222" y2="165" stroke="#9a6000" stroke-width="1" opacity="0.35"/>
+  <text font-size="11.5" fill="#333" text-anchor="middle">
+    <tspan x="121" y="186">Первый, кто привезёт</tspan>
+    <tspan x="121" dy="18">сыр в Столицу,</tspan>
+    <tspan x="121" dy="18">получает 8$ вместо 5$</tspan>
+  </text>
+  <rect y="318" width="242" height="32" rx="12" fill="#e67e22"/>
+  <rect y="318" width="242" height="18" fill="#e67e22"/>
+  <text x="121" y="339" text-anchor="middle" font-size="9" fill="white" opacity="0.8">ТОРГОВЫЕ МАРШРУТЫ</text>
+</g>
+
+</svg>
