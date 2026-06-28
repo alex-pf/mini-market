@@ -98,11 +98,11 @@
   <rect x="399" y="500" width="365" height="105" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
   <text x="419" y="523" font-size="14" font-weight="bold" fill="#2c3e50">🏙️ Что где продают?</text>
   <line x1="415" y1="530" x2="748" y2="530" stroke="#ddd" stroke-width="1"/>
-  <text x="419" y="549" font-size="10.5" fill="#333">🐟 <tspan font-weight="bold">Рыбацкая деревня</tspan> — рыба, суши</text>
-  <text x="419" y="565" font-size="10.5" fill="#333">🌾 <tspan font-weight="bold">Фермы</tspan> — индейка, сыр</text>
+  <text x="419" y="549" font-size="10.5" fill="#333">🐟 <tspan font-weight="bold">Рыбацкая деревня</tspan> — рыба, крабы</text>
+  <text x="419" y="565" font-size="10.5" fill="#333">🌾 <tspan font-weight="bold">Фермы</tspan> — морковь, тыква</text>
   <text x="419" y="581" font-size="10.5" fill="#333">🌿 <tspan font-weight="bold">Лесной городок</tspan> — банан, ананас</text>
-  <text x="570" y="549" font-size="10.5" fill="#333">🏛 <tspan font-weight="bold">Столица</tspan> — пицца, кофе</text>
-  <text x="570" y="565" font-size="10.5" fill="#333">🏖 <tspan font-weight="bold">Курортный город</tspan> — мороженое, десерт</text>
+  <text x="570" y="549" font-size="10.5" fill="#333">🏛 <tspan font-weight="bold">Столица</tspan> — кренделя, хотдоги</text>
+  <text x="570" y="565" font-size="10.5" fill="#333">🏖 <tspan font-weight="bold">Курортный город</tspan> — мороженое, яблоки</text>
   <text x="570" y="581" font-size="10.5" fill="#333">⚓ <tspan font-weight="bold">Торговый порт</tspan> — всё по 3$</text>
 
   <!-- ═══ АПГРЕЙДЫ ═══ -->

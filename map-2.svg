@@ -107,7 +107,7 @@
     <text y="-111" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">Курортный</text>
     <text y="-94" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">город</text>
     <rect x="-84" y="-83" width="168" height="21" rx="4" fill="#fef9e7" opacity="0.95"/>
-    <text y="-68" text-anchor="middle" font-size="10.5" fill="#9a6000">↓ продаёт: 🍦 мороженое · 🍰 десерт</text>
+    <text y="-68" text-anchor="middle" font-size="10.5" fill="#9a6000">↓ продаёт: 🍦 мороженое · 🍎 яблоки</text>
     <rect x="-84" y="-59" width="168" height="21" rx="4" fill="#fdebd0" opacity="0.95"/>
     <text y="-44" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🍌 банан · 🍍 ананас</text>
   </g>
