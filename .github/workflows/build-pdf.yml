@@ -1,0 +1,76 @@
+name: Build PDF
+
+on:
+  push:
+    branches: ["**"]
+    paths:
+      - "**.svg"
+      - ".github/workflows/build-pdf.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install chromium
+          sudo apt-get install -y pdftk-java
+
+      - name: Generate PDFs from SVGs
+        run: |
+          python3 - <<'EOF'
+          from playwright.sync_api import sync_playwright
+          import os
+
+          ORDER = [
+              ("rules.svg",   "rules.pdf"),
+              ("map-1.svg",   "map-1.pdf"),
+              ("map-2.svg",   "map-2.pdf"),
+              ("cards-1.svg", "cards-1.pdf"),
+              ("cards-3.svg", "cards-3.pdf"),
+              ("cards-2.svg", "cards-2.pdf"),
+              ("cards-4.svg", "cards-4.pdf"),
+          ]
+
+          with sync_playwright() as p:
+              b = p.chromium.launch()
+              page = b.new_page()
+              for svg, pdf in ORDER:
+                  page.goto(f"file://{os.path.abspath(svg)}")
+                  page.pdf(path=pdf, format="A4", print_background=True)
+                  print(f"  {pdf}")
+              b.close()
+          EOF
+
+      - name: Merge into single PDF
+        run: |
+          pdftk \
+            rules.pdf \
+            map-1.pdf map-2.pdf \
+            cards-1.pdf cards-3.pdf \
+            cards-2.pdf cards-3.pdf \
+            cards-4.pdf cards-3.pdf \
+            cat output trading-routes-complete.pdf
+          echo "Size: $(du -h trading-routes-complete.pdf | cut -f1)"
+
+      - name: Commit PDF back to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trading-routes-complete.pdf \
+                  rules.pdf map-1.pdf map-2.pdf \
+                  cards-1.pdf cards-2.pdf cards-3.pdf cards-4.pdf
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "ci: rebuild PDFs [skip ci]"
+          git push
