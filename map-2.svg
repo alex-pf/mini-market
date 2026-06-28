@@ -109,7 +109,7 @@
     <rect x="-84" y="-83" width="168" height="21" rx="4" fill="#fef9e7" opacity="0.95"/>
     <text y="-68" text-anchor="middle" font-size="10.5" fill="#9a6000">↓ продаёт: 🍦 мороженое · 🍎 яблоки</text>
     <rect x="-84" y="-59" width="168" height="21" rx="4" fill="#fdebd0" opacity="0.95"/>
-    <text y="-44" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🍌 банан · 🍍 ананас</text>
+    <text y="-44" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🐟 рыба · 🌭 хотдоги</text>
   </g>
 
   <!-- Линия стыка (левый край листа 2) -->
@@ -142,16 +142,16 @@
 <text x="364" y="964" text-anchor="end" font-size="13" font-weight="bold" fill="#8e44ad">3$</text>
 <line x1="46" y1="974" x2="374" y2="974" stroke="#eee"/>
 
-<text x="60" y="996" font-size="12" fill="#c0392b">❌ Продать в другой город</text>
-<text x="364" y="996" text-anchor="end" font-size="13" font-weight="bold" fill="#c0392b">1$</text>
+<text x="60" y="996" font-size="12" fill="#c0392b">⚡ Продать в другой город</text>
+<text x="364" y="996" text-anchor="end" font-size="13" font-weight="bold" fill="#c0392b">2$</text>
 <line x1="46" y1="1006" x2="374" y2="1006" stroke="#eee"/>
 
 <text x="60" y="1028" font-size="12" fill="#333">Стартовый капитал (каждый)</text>
 <text x="364" y="1028" text-anchor="end" font-size="13" font-weight="bold" fill="#333">6$</text>
 <line x1="46" y1="1038" x2="374" y2="1038" stroke="#eee"/>
 
-<text x="60" y="1060" font-size="12" fill="#e74c3c" font-weight="bold">🏆 Победа — накопить</text>
-<text x="364" y="1060" text-anchor="end" font-size="14" font-weight="bold" fill="#e74c3c">30$</text>
+<text x="60" y="1060" font-size="12" fill="#e74c3c" font-weight="bold">🏆 Победа — 30$, доигрывается раунд</text>
+<text x="364" y="1060" text-anchor="end" font-size="13" font-weight="bold" fill="#e74c3c">→ у кого больше
 <line x1="46" y1="1070" x2="374" y2="1070" stroke="#eee"/>
 
 <text x="60" y="1092" font-size="11" fill="#888">Рюкзак: максимум 3 товара одновременно</text>
@@ -169,8 +169,8 @@
 
 <rect x="420" y="938" width="328" height="68" rx="8" fill="#fdebd0" stroke="#e67e22" stroke-width="1.5"/>
 <text x="440" y="958" font-size="20">🏪</text>
-<text x="470" y="958" font-size="13" font-weight="bold" fill="#9a6000">Лавка в городе — 10$</text>
-<text x="440" y="978" font-size="11.5" fill="#555">+1$ пассивного дохода каждый раунд</text>
+<text x="470" y="958" font-size="13" font-weight="bold" fill="#9a6000">Лавка в городе — 8$</text>
+<text x="440" y="978" font-size="11.5" fill="#555">+2$ пассивного дохода каждый раунд</text>
 <text x="440" y="996" font-size="10.5" fill="#888">Построй лавку, поставь на карту в свой город</text>
 
 <rect x="420" y="1018" width="328" height="68" rx="8" fill="#fdebd0" stroke="#e67e22" stroke-width="1.5"/>

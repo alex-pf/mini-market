@@ -14,174 +14,177 @@
   <!-- ═══ ЦЕЛЬ ИГРЫ ═══ -->
   <rect x="30" y="108" width="734" height="58" rx="10" fill="#f9ebea"/>
   <rect x="30" y="108" width="8" height="58" rx="4" fill="#e74c3c"/>
-  <text x="55" y="133" font-size="15" font-weight="bold" fill="#c0392b">🏆 ЦЕЛЬ ИГРЫ</text>
-  <text x="55" y="155" font-size="13" fill="#333">Первый, кто накопит <tspan font-weight="bold">30$</tspan>, побеждает! Покупай товары дёшево и продавай там, где они нужны дорого.</text>
+  <text x="55" y="132" font-size="15" font-weight="bold" fill="#c0392b">🏆 ЦЕЛЬ ИГРЫ</text>
+  <text x="55" y="153" font-size="12.5" fill="#333">Когда кто-то накопит <tspan font-weight="bold">30$</tspan>, раунд доигрывается до конца. <tspan font-weight="bold">Побеждает тот, у кого больше всех денег</tspan> в конце этого раунда.</text>
 
   <!-- ═══ ПОДГОТОВКА ═══ -->
-  <text x="30" y="196" font-size="15" font-weight="bold" fill="#2c3e50">⚙️ ПОДГОТОВКА</text>
-  <line x1="30" y1="202" x2="764" y2="202" stroke="#ddd" stroke-width="1.5"/>
+  <text x="30" y="194" font-size="15" font-weight="bold" fill="#2c3e50">⚙️ ПОДГОТОВКА</text>
+  <line x1="30" y1="200" x2="764" y2="200" stroke="#ddd" stroke-width="1.5"/>
 
   <!-- Step boxes -->
-  <rect x="30" y="210" width="160" height="80" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
-  <text x="110" y="235" text-anchor="middle" font-size="22">🗺️</text>
-  <text x="110" y="255" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Разложи карту</text>
-  <text x="110" y="270" text-anchor="middle" font-size="10" fill="#555">острова в центре</text>
-  <text x="110" y="283" text-anchor="middle" font-size="10" fill="#555">стола</text>
+  <rect x="30" y="208" width="174" height="88" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
+  <text x="117" y="232" text-anchor="middle" font-size="22">🗺️</text>
+  <text x="117" y="252" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Разложи карту</text>
+  <text x="117" y="267" text-anchor="middle" font-size="10" fill="#555">острова в центре стола,</text>
+  <text x="117" y="281" text-anchor="middle" font-size="10" fill="#555">состыкуй листы 1 и 2</text>
 
-  <rect x="202" y="210" width="160" height="80" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
-  <text x="282" y="235" text-anchor="middle" font-size="22">🧱</text>
-  <text x="282" y="255" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Разложи товары</text>
-  <text x="282" y="270" text-anchor="middle" font-size="10" fill="#555">по 3 штуки каждого</text>
-  <text x="282" y="283" text-anchor="middle" font-size="10" fill="#555">вида в свои города</text>
+  <rect x="216" y="208" width="174" height="88" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
+  <text x="303" y="232" text-anchor="middle" font-size="22">🧱</text>
+  <text x="303" y="252" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Разложи товары</text>
+  <text x="303" y="267" text-anchor="middle" font-size="10" fill="#555">по <tspan font-weight="bold">2 × число игроков</tspan> шт.</text>
+  <text x="303" y="281" text-anchor="middle" font-size="10" fill="#555">каждого вида в свои города</text>
 
-  <rect x="374" y="210" width="160" height="80" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
-  <text x="454" y="235" text-anchor="middle" font-size="22">💰</text>
-  <text x="454" y="255" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Возьми деньги</text>
-  <text x="454" y="270" text-anchor="middle" font-size="10" fill="#555">Каждый получает</text>
-  <text x="454" y="283" text-anchor="middle" font-size="10" fill="#555">6$ на старт</text>
+  <rect x="402" y="208" width="174" height="88" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
+  <text x="489" y="232" text-anchor="middle" font-size="22">💰</text>
+  <text x="489" y="252" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Возьми деньги</text>
+  <text x="489" y="267" text-anchor="middle" font-size="10" fill="#555">Каждый получает</text>
+  <text x="489" y="281" text-anchor="middle" font-size="10" fill="#555">6$ на старт</text>
 
-  <rect x="546" y="210" width="218" height="80" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
-  <text x="655" y="235" text-anchor="middle" font-size="22">🎴</text>
-  <text x="655" y="255" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Перемешай карточки</text>
-  <text x="655" y="270" text-anchor="middle" font-size="10" fill="#555">событий рубашками вниз.</text>
-  <text x="655" y="283" text-anchor="middle" font-size="10" fill="#555">Поставь фишку в Столицу</text>
+  <rect x="588" y="208" width="176" height="88" rx="8" fill="#eaf4fb" stroke="#aed6f1" stroke-width="1.5"/>
+  <text x="676" y="232" text-anchor="middle" font-size="22">📍</text>
+  <text x="676" y="252" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">Выбери город</text>
+  <text x="676" y="267" text-anchor="middle" font-size="10" fill="#555">По очереди каждый игрок</text>
+  <text x="676" y="281" text-anchor="middle" font-size="10" fill="#555">выбирает стартовый город</text>
 
   <!-- ═══ ХОД ИГРОКА ═══ -->
-  <text x="30" y="318" font-size="15" font-weight="bold" fill="#2c3e50">🎲 ТВОЙ ХОД — 3 ШАГА ПО ПОРЯДКУ</text>
-  <line x1="30" y1="324" x2="764" y2="324" stroke="#ddd" stroke-width="1.5"/>
+  <text x="30" y="322" font-size="15" font-weight="bold" fill="#2c3e50">🎲 ТВОЙ ХОД — 3 ШАГА ПО ПОРЯДКУ</text>
+  <line x1="30" y1="328" x2="764" y2="328" stroke="#ddd" stroke-width="1.5"/>
 
-  <!-- Step 1 -->
-  <rect x="30" y="332" width="234" height="150" rx="10" fill="#d5f5e3" stroke="#27ae60" stroke-width="2"/>
-  <circle cx="68" cy="360" r="18" fill="#27ae60"/>
-  <text x="68" y="366" text-anchor="middle" font-size="16" font-weight="bold" fill="white">1</text>
-  <text x="148" y="362" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d6a3a">ПЕРЕМЕСТИСЬ</text>
-  <line x1="46" y1="374" x2="248" y2="374" stroke="#27ae60" stroke-width="1" opacity="0.4"/>
-  <text x="148" y="393" text-anchor="middle" font-size="11" fill="#333">Передвинь свою фишку</text>
-  <text x="148" y="410" text-anchor="middle" font-size="11" fill="#333">в соседний город</text>
-  <text x="148" y="427" text-anchor="middle" font-size="11" fill="#333">по любому маршруту.</text>
-  <text x="148" y="450" text-anchor="middle" font-size="11" fill="#555">Можно остаться на месте</text>
-  <text x="148" y="465" text-anchor="middle" font-size="11" fill="#555">и сэкономить ход.</text>
+  <!-- Step 1: КАРТОЧКА -->
+  <rect x="30" y="336" width="234" height="154" rx="10" fill="#e8daef" stroke="#8e44ad" stroke-width="2"/>
+  <circle cx="68" cy="364" r="18" fill="#8e44ad"/>
+  <text x="68" y="370" text-anchor="middle" font-size="16" font-weight="bold" fill="white">1</text>
+  <text x="148" y="366" text-anchor="middle" font-size="14" font-weight="bold" fill="#6c3483">КАРТОЧКА</text>
+  <line x1="46" y1="378" x2="248" y2="378" stroke="#8e44ad" stroke-width="1" opacity="0.4"/>
+  <text x="148" y="397" text-anchor="middle" font-size="11" fill="#333">Возьми верхнюю</text>
+  <text x="148" y="414" text-anchor="middle" font-size="11" fill="#333">карточку события</text>
+  <text x="148" y="431" text-anchor="middle" font-size="11" fill="#333">и выполни её сразу.</text>
+  <text x="148" y="454" text-anchor="middle" font-size="11" fill="#555">Бонус карточки можно</text>
+  <text x="148" y="469" text-anchor="middle" font-size="11" fill="#555">использовать в этот ход.</text>
 
-  <!-- Step 2 -->
-  <rect x="280" y="332" width="234" height="150" rx="10" fill="#fef9e7" stroke="#e67e22" stroke-width="2"/>
-  <circle cx="318" cy="360" r="18" fill="#e67e22"/>
-  <text x="318" y="366" text-anchor="middle" font-size="16" font-weight="bold" fill="white">2</text>
-  <text x="397" y="362" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">ТОРГУЙ</text>
-  <line x1="296" y1="374" x2="498" y2="374" stroke="#e67e22" stroke-width="1" opacity="0.4"/>
-  <text x="397" y="393" text-anchor="middle" font-size="11" fill="#333">Купи товар за 2$</text>
-  <text x="397" y="410" text-anchor="middle" font-size="11" fill="#333">— или продай товар,</text>
-  <text x="397" y="427" text-anchor="middle" font-size="11" fill="#333">который везёшь.</text>
-  <text x="397" y="450" text-anchor="middle" font-size="11" fill="#555">Нужный город → 5$</text>
-  <text x="397" y="465" text-anchor="middle" font-size="11" fill="#555">Любой другой → 1$</text>
+  <!-- Step 2: ПЕРЕМЕСТИСЬ -->
+  <rect x="280" y="336" width="234" height="154" rx="10" fill="#d5f5e3" stroke="#27ae60" stroke-width="2"/>
+  <circle cx="318" cy="364" r="18" fill="#27ae60"/>
+  <text x="318" y="370" text-anchor="middle" font-size="16" font-weight="bold" fill="white">2</text>
+  <text x="397" y="366" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d6a3a">ПЕРЕМЕСТИСЬ</text>
+  <line x1="296" y1="378" x2="498" y2="378" stroke="#27ae60" stroke-width="1" opacity="0.4"/>
+  <text x="397" y="397" text-anchor="middle" font-size="11" fill="#333">Передвинь фишку</text>
+  <text x="397" y="414" text-anchor="middle" font-size="11" fill="#333">в соседний город</text>
+  <text x="397" y="431" text-anchor="middle" font-size="11" fill="#333">по маршруту на карте.</text>
+  <text x="397" y="454" text-anchor="middle" font-size="11" fill="#555">Можно остаться на месте</text>
+  <text x="397" y="469" text-anchor="middle" font-size="11" fill="#555">и не тратить ход.</text>
 
-  <!-- Step 3 -->
-  <rect x="530" y="332" width="234" height="150" rx="10" fill="#e8daef" stroke="#8e44ad" stroke-width="2"/>
-  <circle cx="568" cy="360" r="18" fill="#8e44ad"/>
-  <text x="568" y="366" text-anchor="middle" font-size="16" font-weight="bold" fill="white">3</text>
-  <text x="647" y="362" text-anchor="middle" font-size="14" font-weight="bold" fill="#6c3483">ВОЗЬМИ КАРТОЧКУ</text>
-  <line x1="546" y1="374" x2="748" y2="374" stroke="#8e44ad" stroke-width="1" opacity="0.4"/>
-  <text x="647" y="393" text-anchor="middle" font-size="11" fill="#333">Возьми верхнюю</text>
-  <text x="647" y="410" text-anchor="middle" font-size="11" fill="#333">карточку события</text>
-  <text x="647" y="427" text-anchor="middle" font-size="11" fill="#333">и выполни её.</text>
-  <text x="647" y="450" text-anchor="middle" font-size="11" fill="#555">Затем передай ход</text>
-  <text x="647" y="465" text-anchor="middle" font-size="11" fill="#555">следующему игроку.</text>
+  <!-- Step 3: ТОРГУЙ -->
+  <rect x="530" y="336" width="234" height="154" rx="10" fill="#fef9e7" stroke="#e67e22" stroke-width="2"/>
+  <circle cx="568" cy="364" r="18" fill="#e67e22"/>
+  <text x="568" y="370" text-anchor="middle" font-size="16" font-weight="bold" fill="white">3</text>
+  <text x="647" y="366" text-anchor="middle" font-size="14" font-weight="bold" fill="#9a6000">ТОРГУЙ</text>
+  <line x1="546" y1="378" x2="748" y2="378" stroke="#e67e22" stroke-width="1" opacity="0.4"/>
+  <text x="647" y="397" text-anchor="middle" font-size="11" fill="#333">Сначала продай то,</text>
+  <text x="647" y="414" text-anchor="middle" font-size="11" fill="#333">что везёшь. Затем</text>
+  <text x="647" y="431" text-anchor="middle" font-size="11" fill="#333">купи новый товар.</text>
+  <text x="647" y="454" text-anchor="middle" font-size="11" fill="#555">Нужный город → 5$</text>
+  <text x="647" y="469" text-anchor="middle" font-size="11" fill="#555">Другой город → 2$</text>
+
+  <!-- ═══ ЦЕНЫ ═══ -->
+  <rect x="30" y="504" width="355" height="116" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
+  <text x="210" y="527" text-anchor="middle" font-size="13" font-weight="bold" fill="#2c3e50">💰 Цены</text>
+  <line x1="46" y1="534" x2="369" y2="534" stroke="#ddd" stroke-width="1"/>
+  <text x="50" y="553" font-size="12" fill="#333">🛍 Купить любой товар</text>
+  <text x="345" y="553" text-anchor="end" font-size="13" font-weight="bold" fill="#333">2$</text>
+  <line x1="46" y1="560" x2="369" y2="560" stroke="#eee"/>
+  <text x="50" y="578" font-size="12" fill="#27ae60">✅ Продать в нужный город</text>
+  <text x="345" y="578" text-anchor="end" font-size="13" font-weight="bold" fill="#27ae60">5$</text>
+  <line x1="46" y1="585" x2="369" y2="585" stroke="#eee"/>
+  <text x="50" y="603" font-size="12" fill="#8e44ad">⚓ Продать в Торговый порт</text>
+  <text x="345" y="603" text-anchor="end" font-size="13" font-weight="bold" fill="#8e44ad">3$</text>
+  <line x1="46" y1="610" x2="369" y2="610" stroke="#eee"/>
+  <text x="50" y="627" font-size="12" fill="#c0392b">❌ Продать в другой город</text>
+  <text x="345" y="627" text-anchor="end" font-size="13" font-weight="bold" fill="#c0392b">2$</text>
+
+  <!-- ═══ ГОРОДА ═══ -->
+  <rect x="399" y="504" width="365" height="116" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
+  <text x="581" y="527" text-anchor="middle" font-size="13" font-weight="bold" fill="#2c3e50">🏙️ Что где продают?</text>
+  <line x1="415" y1="534" x2="748" y2="534" stroke="#ddd" stroke-width="1"/>
+  <text x="419" y="553" font-size="10.5" fill="#333">🐟 <tspan font-weight="bold">Рыбацкая деревня</tspan> — рыба, крабы</text>
+  <text x="419" y="569" font-size="10.5" fill="#333">🌾 <tspan font-weight="bold">Фермы</tspan> — морковь, тыква</text>
+  <text x="419" y="585" font-size="10.5" fill="#333">🌿 <tspan font-weight="bold">Лесной городок</tspan> — банан, ананас</text>
+  <text x="580" y="553" font-size="10.5" fill="#333">🏛 <tspan font-weight="bold">Столица</tspan> — кренделя, хотдоги</text>
+  <text x="580" y="569" font-size="10.5" fill="#333">🏖 <tspan font-weight="bold">Курортный город</tspan> — мороженое, яблоки</text>
+  <text x="580" y="585" font-size="10.5" fill="#333">⚓ <tspan font-weight="bold">Торговый порт</tspan> — всё по 3$</text>
+  <text x="419" y="610" font-size="10" fill="#888">Склад каждого города: кол-во игроков × 2 штуки. Пополняется каждые 5 ходов.</text>
 
   <!-- ═══ РЮКЗАК ═══ -->
-  <rect x="30" y="500" width="355" height="105" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
-  <text x="50" y="523" font-size="14" font-weight="bold" fill="#2c3e50">🎒 РЮКЗАК (инвентарь)</text>
-  <line x1="46" y1="530" x2="369" y2="530" stroke="#ddd" stroke-width="1"/>
-  <text x="50" y="550" font-size="11.5" fill="#333">У каждого игрока <tspan font-weight="bold">максимум 3 товара</tspan>.</text>
-  <text x="50" y="568" font-size="11.5" fill="#333">Купить 4-й нельзя, пока не продашь.</text>
-  <text x="50" y="586" font-size="11.5" fill="#555">Купи апгрейд «Тележка» — будет 5 мест!</text>
-
-  <!-- ═══ ГОРОДА И ТОВАРЫ ═══ -->
-  <rect x="399" y="500" width="365" height="105" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
-  <text x="419" y="523" font-size="14" font-weight="bold" fill="#2c3e50">🏙️ Что где продают?</text>
-  <line x1="415" y1="530" x2="748" y2="530" stroke="#ddd" stroke-width="1"/>
-  <text x="419" y="549" font-size="10.5" fill="#333">🐟 <tspan font-weight="bold">Рыбацкая деревня</tspan> — рыба, крабы</text>
-  <text x="419" y="565" font-size="10.5" fill="#333">🌾 <tspan font-weight="bold">Фермы</tspan> — морковь, тыква</text>
-  <text x="419" y="581" font-size="10.5" fill="#333">🌿 <tspan font-weight="bold">Лесной городок</tspan> — банан, ананас</text>
-  <text x="570" y="549" font-size="10.5" fill="#333">🏛 <tspan font-weight="bold">Столица</tspan> — кренделя, хотдоги</text>
-  <text x="570" y="565" font-size="10.5" fill="#333">🏖 <tspan font-weight="bold">Курортный город</tspan> — мороженое, яблоки</text>
-  <text x="570" y="581" font-size="10.5" fill="#333">⚓ <tspan font-weight="bold">Торговый порт</tspan> — всё по 3$</text>
+  <rect x="30" y="634" width="200" height="70" rx="10" fill="#fef9e7" stroke="#e67e22" stroke-width="1.5"/>
+  <text x="130" y="655" text-anchor="middle" font-size="13" font-weight="bold" fill="#9a6000">🎒 Рюкзак</text>
+  <text x="130" y="673" text-anchor="middle" font-size="11" fill="#333">Максимум <tspan font-weight="bold">3 товара</tspan></text>
+  <text x="130" y="691" text-anchor="middle" font-size="10" fill="#888">С тележкой — 5 товаров</text>
 
   <!-- ═══ АПГРЕЙДЫ ═══ -->
-  <text x="30" y="632" font-size="15" font-weight="bold" fill="#2c3e50">🔧 АПГРЕЙДЫ — улучши свой бизнес!</text>
-  <line x1="30" y1="638" x2="764" y2="638" stroke="#ddd" stroke-width="1.5"/>
+  <rect x="244" y="634" width="520" height="70" rx="10" fill="#fdebd0" stroke="#e67e22" stroke-width="1.5"/>
+  <text x="504" y="655" text-anchor="middle" font-size="13" font-weight="bold" fill="#9a6000">🔧 Апгрейды (строятся из Лего)</text>
+  <text x="290" y="675" font-size="11" fill="#555">🛒 <tspan font-weight="bold">Тележка</tspan> 5$ → +2 места в рюкзаке</text>
+  <text x="290" y="692" font-size="11" fill="#555">🏪 <tspan font-weight="bold">Лавка</tspan> 8$ → +2$ пассивно каждый раунд</text>
+  <text x="510" y="675" font-size="11" fill="#555">⚡ <tspan font-weight="bold">Маршрут</tspan> 8$ → 0 ходов между двумя городами</text>
+  <text x="510" y="692" font-size="10" fill="#888">Апгрейды купить можно в любой момент своего хода</text>
 
-  <rect x="30" y="646" width="228" height="90" rx="10" fill="#fdebd0" stroke="#e67e22" stroke-width="1.5"/>
-  <text x="144" y="668" text-anchor="middle" font-size="22">🛒</text>
-  <text x="144" y="686" text-anchor="middle" font-size="13" font-weight="bold" fill="#9a6000">Тележка · 5$</text>
-  <line x1="46" y1="693" x2="242" y2="693" stroke="#e67e22" stroke-width="1" opacity="0.4"/>
-  <text x="144" y="710" text-anchor="middle" font-size="11" fill="#555">+2 места в рюкзаке</text>
-  <text x="144" y="725" text-anchor="middle" font-size="10" fill="#888">Построй из Лего!</text>
+  <!-- ═══ КАРТОЧКИ ═══ -->
+  <text x="30" y="730" font-size="14" font-weight="bold" fill="#2c3e50">🎴 КАРТОЧКИ СОБЫТИЙ</text>
+  <line x1="30" y1="736" x2="764" y2="736" stroke="#ddd" stroke-width="1.5"/>
 
-  <rect x="272" y="646" width="228" height="90" rx="10" fill="#fdebd0" stroke="#e67e22" stroke-width="1.5"/>
-  <text x="386" y="668" text-anchor="middle" font-size="22">🏪</text>
-  <text x="386" y="686" text-anchor="middle" font-size="13" font-weight="bold" fill="#9a6000">Лавка в городе · 10$</text>
-  <line x1="288" y1="693" x2="484" y2="693" stroke="#e67e22" stroke-width="1" opacity="0.4"/>
-  <text x="386" y="710" text-anchor="middle" font-size="11" fill="#555">+1$ пассивно каждый раунд</text>
-  <text x="386" y="725" text-anchor="middle" font-size="10" fill="#888">Построй из Лего!</text>
+  <rect x="30" y="744" width="170" height="58" rx="8" fill="#d6eaf8" stroke="#2980b9" stroke-width="1.5"/>
+  <text x="115" y="763" text-anchor="middle" font-size="18">🌊</text>
+  <text x="115" y="779" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1a5276">ПРИРОДА · 5 карт</text>
+  <text x="115" y="795" text-anchor="middle" font-size="9.5" fill="#555">штормы, урожай…</text>
 
-  <rect x="514" y="646" width="250" height="90" rx="10" fill="#fdebd0" stroke="#e67e22" stroke-width="1.5"/>
-  <text x="639" y="668" text-anchor="middle" font-size="22">⚡</text>
-  <text x="639" y="686" text-anchor="middle" font-size="13" font-weight="bold" fill="#9a6000">Быстрый маршрут · 8$</text>
-  <line x1="530" y1="693" x2="748" y2="693" stroke="#e67e22" stroke-width="1" opacity="0.4"/>
-  <text x="639" y="710" text-anchor="middle" font-size="11" fill="#555">1 переход между двумя</text>
-  <text x="639" y="725" text-anchor="middle" font-size="11" fill="#555">городами занимает 0 ходов</text>
+  <rect x="212" y="744" width="170" height="58" rx="8" fill="#fef9e7" stroke="#e67e22" stroke-width="1.5"/>
+  <text x="297" y="763" text-anchor="middle" font-size="18">📰</text>
+  <text x="297" y="779" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#9a6000">РЫНОК · 6 карт</text>
+  <text x="297" y="795" text-anchor="middle" font-size="9.5" fill="#555">цены, товары…</text>
 
-  <!-- ═══ КАРТОЧКИ СОБЫТИЙ ═══ -->
-  <text x="30" y="766" font-size="15" font-weight="bold" fill="#2c3e50">🎴 КАРТОЧКИ СОБЫТИЙ</text>
-  <line x1="30" y1="772" x2="764" y2="772" stroke="#ddd" stroke-width="1.5"/>
+  <rect x="394" y="744" width="170" height="58" rx="8" fill="#d5f5e3" stroke="#27ae60" stroke-width="1.5"/>
+  <text x="479" y="763" text-anchor="middle" font-size="18">🎲</text>
+  <text x="479" y="779" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1d6a3a">ИГРОК · 5 карт</text>
+  <text x="479" y="795" text-anchor="middle" font-size="9.5" fill="#555">бонусы, помехи…</text>
 
-  <rect x="30" y="780" width="168" height="60" rx="8" fill="#d6eaf8" stroke="#2980b9" stroke-width="1.5"/>
-  <text x="114" y="800" text-anchor="middle" font-size="20">🌊</text>
-  <text x="114" y="818" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a5276">ПРИРОДА</text>
-  <text x="114" y="833" text-anchor="middle" font-size="10" fill="#555">5 карточек</text>
+  <rect x="576" y="744" width="188" height="58" rx="8" fill="#e8daef" stroke="#8e44ad" stroke-width="1.5"/>
+  <text x="670" y="763" text-anchor="middle" font-size="18">⚙️</text>
+  <text x="670" y="779" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#6c3483">ОСОБОЕ · 4 карты</text>
+  <text x="670" y="795" text-anchor="middle" font-size="9.5" fill="#555">двойной ход, рынок…</text>
 
-  <rect x="210" y="780" width="168" height="60" rx="8" fill="#fef9e7" stroke="#e67e22" stroke-width="1.5"/>
-  <text x="294" y="800" text-anchor="middle" font-size="20">📰</text>
-  <text x="294" y="818" text-anchor="middle" font-size="11" font-weight="bold" fill="#9a6000">РЫНОК</text>
-  <text x="294" y="833" text-anchor="middle" font-size="10" fill="#555">6 карточек</text>
-
-  <rect x="390" y="780" width="168" height="60" rx="8" fill="#d5f5e3" stroke="#27ae60" stroke-width="1.5"/>
-  <text x="474" y="800" text-anchor="middle" font-size="20">🎲</text>
-  <text x="474" y="818" text-anchor="middle" font-size="11" font-weight="bold" fill="#1d6a3a">ИГРОК</text>
-  <text x="474" y="833" text-anchor="middle" font-size="10" fill="#555">5 карточек</text>
-
-  <rect x="570" y="780" width="194" height="60" rx="8" fill="#e8daef" stroke="#8e44ad" stroke-width="1.5"/>
-  <text x="667" y="800" text-anchor="middle" font-size="20">⚙️</text>
-  <text x="667" y="818" text-anchor="middle" font-size="11" font-weight="bold" fill="#6c3483">ОСОБОЕ</text>
-  <text x="667" y="833" text-anchor="middle" font-size="10" fill="#555">4 карточки</text>
+  <!-- Пояснение «Рынок перевернулся» -->
+  <rect x="30" y="812" width="734" height="30" rx="6" fill="#e8daef" stroke="#8e44ad" stroke-width="1"/>
+  <text x="397" y="832" text-anchor="middle" font-size="11" fill="#6c3483">🔄 <tspan font-weight="bold">«Рынок перевернулся»</tspan> — в этот ход нужные товары продаются за 2$, а ненужные — за 5$. Выгодно сыграть наоборот!</text>
 
   <!-- ═══ ВАЖНЫЕ ПРАВИЛА ═══ -->
-  <text x="30" y="872" font-size="15" font-weight="bold" fill="#2c3e50">📌 ВАЖНЫЕ ПРАВИЛА</text>
-  <line x1="30" y1="878" x2="764" y2="878" stroke="#ddd" stroke-width="1.5"/>
+  <text x="30" y="868" font-size="14" font-weight="bold" fill="#2c3e50">📌 ВАЖНЫЕ ПРАВИЛА</text>
+  <line x1="30" y1="874" x2="764" y2="874" stroke="#ddd" stroke-width="1.5"/>
 
-  <rect x="30" y="886" width="355" height="130" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
-  <text x="50" y="908" font-size="12" fill="#333">✅ В одном городе может быть</text>
-  <text x="50" y="908" font-size="12" fill="#333">   несколько игроков одновременно</text>
-  <text x="50" y="928" font-size="12" fill="#333">✅ Товар можно купить только там,</text>
-  <text x="50" y="944" font-size="12" fill="#333">   где он производится</text>
-  <text x="50" y="964" font-size="12" fill="#333">✅ Карточку события нужно выполнить</text>
-  <text x="50" y="980" font-size="12" fill="#333">   сразу, как только взял её</text>
-  <text x="50" y="1000" font-size="12" fill="#555">✅ Апгрейды можно купить в любой</text>
-  <text x="50" y="1016" font-size="12" fill="#555">   момент своего хода</text>
+  <rect x="30" y="882" width="355" height="130" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
+  <text x="50" y="903" font-size="12" fill="#333">✅ В одном городе может быть</text>
+  <text x="50" y="919" font-size="12" fill="#333">   несколько игроков одновременно</text>
+  <text x="50" y="938" font-size="12" fill="#333">✅ Товар купить — только в городе</text>
+  <text x="50" y="954" font-size="12" fill="#333">   где он производится</text>
+  <text x="50" y="973" font-size="12" fill="#333">✅ Если колода кончилась —</text>
+  <text x="50" y="989" font-size="12" fill="#333">   перемешай и начни снова</text>
+  <text x="50" y="1008" font-size="11" fill="#888">Склад города пополняется,</text>
+  <text x="50" y="1022" font-size="11" fill="#888">если в нём осталось меньше товаров, чем игроков</text>
 
-  <rect x="399" y="886" width="365" height="130" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
-  <text x="419" y="908" font-size="12" fill="#333">❌ Нельзя иметь больше 3 товаров</text>
-  <text x="419" y="924" font-size="12" fill="#333">   (если нет тележки)</text>
-  <text x="419" y="944" font-size="12" fill="#333">❌ Нельзя продать, если товара нет</text>
-  <text x="419" y="960" font-size="12" fill="#333">   в твоём рюкзаке</text>
-  <text x="419" y="980" font-size="12" fill="#333">❌ Если колода закончилась —</text>
-  <text x="419" y="996" font-size="12" fill="#333">   перемешай и начни снова</text>
-  <text x="419" y="1016" font-size="12" fill="#555">❌ Долг невозможен — нет денег,</text>
-  <text x="419" y="1032" font-size="12" fill="#555">   нет покупки</text>
+  <rect x="399" y="882" width="365" height="130" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="1.5"/>
+  <text x="419" y="903" font-size="12" fill="#333">❌ Нельзя иметь больше 3 товаров</text>
+  <text x="419" y="919" font-size="12" fill="#333">   (без тележки)</text>
+  <text x="419" y="938" font-size="12" fill="#333">❌ Долг невозможен — нет денег,</text>
+  <text x="419" y="954" font-size="12" fill="#333">   нет покупки</text>
+  <text x="419" y="973" font-size="12" fill="#333">❌ Нельзя продать товар которого</text>
+  <text x="419" y="989" font-size="12" fill="#333">   нет в рюкзаке</text>
+  <text x="419" y="1008" font-size="11" fill="#888">Когда кто-то набрал 30$ — все</text>
+  <text x="419" y="1022" font-size="11" fill="#888">доигрывают этот раунд до конца</text>
 
   <!-- Bottom band -->
-  <rect y="1033" width="794" height="6" fill="#e74c3c"/>
-  <rect y="1039" width="794" height="84" fill="#2c3e50"/>
-  <text x="397" y="1075" text-anchor="middle" font-size="14" fill="white">🏆 Первый, кто накопит <tspan font-weight="bold" fill="#f1c40f">30$</tspan>, объявляет об этом в начале своего хода и побеждает! 🏆</text>
-  <text x="397" y="1100" text-anchor="middle" font-size="11" fill="#7f8c8d">Торговые маршруты · Настольная игра на основе конструктора Лего · Для детей 7–9 лет</text>
+  <rect y="1026" width="794" height="6" fill="#e74c3c"/>
+  <rect y="1032" width="794" height="91" fill="#2c3e50"/>
+  <text x="397" y="1065" text-anchor="middle" font-size="13" fill="white">🏆 Когда кто-то достиг <tspan font-weight="bold" fill="#f1c40f">30$</tspan> — раунд доигрывается до конца.</text>
+  <text x="397" y="1086" text-anchor="middle" font-size="13" fill="white">Побеждает тот, у кого <tspan font-weight="bold" fill="#f1c40f">больше всего денег</tspan> после финального раунда! 🏆</text>
+  <text x="397" y="1112" text-anchor="middle" font-size="11" fill="#7f8c8d">Торговые маршруты · Настольная игра на основе конструктора Лего · Для детей 7–9 лет</text>
 
 </svg>

@@ -72,7 +72,7 @@
     <rect x="-80" y="107" width="160" height="21" rx="4" fill="#d6eaf8" opacity="0.95"/>
     <text y="122" text-anchor="middle" font-size="10.5" fill="#1a5276">↓ продаёт: 🐟 рыба · 🦀 крабы</text>
     <rect x="-80" y="131" width="160" height="21" rx="4" fill="#fdebd0" opacity="0.95"/>
-    <text y="146" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🍦 мороженое · 🍎 яблоки</text>
+    <text y="146" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🍌 банан · 🥕 морковь</text>
   </g>
 
   <!-- CITY: Лесной городок (230,470) -->
@@ -86,7 +86,7 @@
     <rect x="-80" y="106" width="160" height="21" rx="4" fill="#d5f5e3" opacity="0.95"/>
     <text y="121" text-anchor="middle" font-size="10.5" fill="#1d6a3a">↓ продаёт: 🍌 банан · 🍍 ананас</text>
     <rect x="-80" y="130" width="160" height="21" rx="4" fill="#fdebd0" opacity="0.95"/>
-    <text y="145" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🐟 рыба · 🌭 хотдоги</text>
+    <text y="145" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🥨 кренделя · 🍦 мороженое</text>
   </g>
 
   <!-- CITY: Столица (705,398) — БОЛЬШОЙ, центральный -->
@@ -100,7 +100,7 @@
     <rect x="-78" y="114" width="156" height="21" rx="4" fill="#fadbd8" opacity="0.95"/>
     <text y="129" text-anchor="middle" font-size="10.5" fill="#922b21">↓ продаёт: 🥨 кренделя · 🌭 хотдоги</text>
     <rect x="-78" y="138" width="156" height="21" rx="4" fill="#fdebd0" opacity="0.95"/>
-    <text y="153" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🥕 морковь · 🎃 тыква</text>
+    <text y="153" text-anchor="middle" font-size="10.5" fill="#a04000">★ хочет: 🦀 крабы · 🎃 тыква</text>
   </g>
 
   <!-- CITY: Фермы (375,640) — label сверху -->
@@ -113,7 +113,7 @@
     <rect x="-72" y="-83" width="144" height="21" rx="4" fill="#fdebd0" opacity="0.95"/>
     <text y="-68" text-anchor="middle" font-size="10.5" fill="#a04000">↓ продаёт: 🥕 морковь · 🎃 тыква</text>
     <rect x="-72" y="-59" width="144" height="21" rx="4" fill="#d5f5e3" opacity="0.95"/>
-    <text y="-44" text-anchor="middle" font-size="10.5" fill="#1d6a3a">★ хочет: 🥨 кренделя · 🦀 крабы</text>
+    <text y="-44" text-anchor="middle" font-size="10.5" fill="#1d6a3a">★ хочет: 🍍 ананас · 🍎 яблоки</text>
   </g>
 
   <!-- CITY: Торговый порт (1225,300) — виден краешком, label слева -->
@@ -186,16 +186,16 @@
 <text x="386" y="861" font-size="11.5" fill="#333">🎒 Рюкзак: макс. 3 товара (5 с тележкой)</text>
 <text x="386" y="881" font-size="11.5" fill="#333">💰 Старт: 6$ каждому игроку</text>
 <text x="386" y="901" font-size="11.5" fill="#333">🏆 Победа: первый накопить 30$</text>
-<text x="386" y="921" font-size="11.5" fill="#333">🎲 Ход: переместись → торгуй → карточка</text>
+<text x="386" y="921" font-size="11.5" fill="#333">🎲 Ход: карточка → переместись → торгуй</text>
 <line x1="386" y1="933" x2="754" y2="933" stroke="#eee"/>
 <text x="386" y="952" font-size="11.5" fill="#333">💸 Купить товар:                    <tspan font-weight="bold">2$</tspan></text>
 <text x="386" y="972" font-size="11.5" fill="#27ae60">✅ Продать в нужном городе:     <tspan font-weight="bold">5$</tspan></text>
 <text x="386" y="992" font-size="11.5" fill="#e67e22">⚓ Продать в Торговом порту:     <tspan font-weight="bold">3$</tspan></text>
-<text x="386" y="1012" font-size="11.5" fill="#c0392b">❌ Продать в другом городе:       <tspan font-weight="bold">1$</tspan></text>
+<text x="386" y="1012" font-size="11.5" fill="#c0392b">⚡ Продать в другом городе:        <tspan font-weight="bold">2$</tspan></text>
 <line x1="386" y1="1024" x2="754" y2="1024" stroke="#eee"/>
-<text x="386" y="1043" font-size="11" fill="#8e44ad">🛒 Тележка 5$ · 🏪 Лавка 10$ · ⚡ Маршрут 8$</text>
-<text x="386" y="1060" font-size="10.5" fill="#888">Листы карты соединить по красной пунктирной линии</text>
-<text x="386" y="1078" font-size="10.5" fill="#888">Карточки событий брать каждый ход (колода рубашкой вниз)</text>
+<text x="386" y="1043" font-size="11" fill="#8e44ad">🛒 Тележка 5$ · 🏪 Лавка 8$ (2$/раунд) · ⚡ Маршрут 8$</text>
+<text x="386" y="1060" font-size="10.5" fill="#888">Когда кто-то набрал 30$ — раунд доигрывается, побеждает богатейший</text>
+<text x="386" y="1078" font-size="10.5" fill="#888">Карточку тянуть ПЕРВЫМ шагом — бонус работает в этот ход</text>
 <text x="386" y="1098" font-size="10.5" fill="#888">Апгрейды строятся из Лего и ставятся перед игроком</text>
 
 <!-- Специализации городов -->
